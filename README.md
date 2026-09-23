@@ -1,8 +1,8 @@
-# Semana 4 — Planificador de procesos con IPC (C++)
+# Planificador de procesos con IPC (C++)
 
-Sistemas Operativos · UNSA · 2026-B · Karla Miluska Bedregal Coaguila
+Sistemas Operativos · Karla Miluska Bedregal Coaguila
 
-Simulador de planificación de CPU (FCFS, SJF, Prioridad y Round Robin) y comunicación entre procesos con pipes POSIX (`fork`, `pipe`, `poll`, `waitpid`). Corresponde al laboratorio (diapositiva 18) y a la práctica domiciliaria (diapositiva 19) de la semana 4.
+Simulador de planificación de CPU (FCFS, SJF, Prioridad y Round Robin) y comunicación entre procesos con pipes POSIX (`fork`, `pipe`, `poll`, `waitpid`). 
 
 ## Requisitos
 
