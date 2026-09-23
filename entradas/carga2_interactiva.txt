@@ -1,0 +1,10 @@
+# Carga 2: interactiva, ráfagas cortas y parecidas, llegadas escalonadas
+# PID llegada rafaga prioridad
+P1 0 3 2
+P2 1 2 1
+P3 2 3 3
+P4 3 1 2
+P5 5 2 1
+P6 6 3 2
+P7 8 1 1
+P8 9 2 3
